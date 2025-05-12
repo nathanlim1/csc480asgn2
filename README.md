@@ -5,7 +5,7 @@ Dr. Kirk Duran
 
 Implemented in two files:
 
-- Poker.py -> Implementation of the poker simulator as a class, including the game state, player actions, and hand evaluation.
+- Poker.py -> Implementation of the poker simulator as a Python Class, including the game state, player actions, and hand evaluation.
 - Bot.py -> Implementation of the Monte Carlo Tree Search Poker Bot and the main function.
 
 To run the simulation, simply run Bot.py in terminal. A game of poker will be simulated between the bot and an opponent that
