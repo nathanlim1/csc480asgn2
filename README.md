@@ -13,6 +13,6 @@ never folds. The result of the game will be printed to the console, and the prog
 run another game once the current one ends.
 
 The bot is implemented as the assignment specifies, running simulations for 10 seconds and then determining whether
-to call or fold based on whether or not it won in >=50% of the simulations.
+to stay or fold based on whether or not it won in >=50% of the simulations.
 
 Thank you!
