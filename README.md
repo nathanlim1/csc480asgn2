@@ -3,7 +3,7 @@ Nathan Lim (nlim10@calpoly.edu)
 
 Dr. Kirk Duran
 
-Implemented in two files
+Implemented in two files:
 
 - Poker.py -> Implementation of the poker simulator as a class, including the game state, player actions, and hand evaluation.
 - Bot.py -> Implementation of the Monte Carlo Tree Search Poker Bot and the main function.
